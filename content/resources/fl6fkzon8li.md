@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/6-370-the-battlecode-programming-competition-january-iap-2013/3ed2d44d00de7b8ac3316bc6f3041fb8_Fl6fKzon8LI.srt
+file: /media/courses/6-370-the-battlecode-programming-competition-january-iap-2013/3ed2d44d00de7b8ac3316bc6f3041fb8_Fl6fKzon8LI.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 3ed2d44d-00de-7b8a-c331-6bc6f3041fb8

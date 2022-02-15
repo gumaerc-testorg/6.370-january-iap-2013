@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Specs and Software
+parent_type: CourseSection
 parent_uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 title: Battlecode 2013 Gameplay Specs
 uid: ae7def09-6e67-e243-144a-c62c695bd09f

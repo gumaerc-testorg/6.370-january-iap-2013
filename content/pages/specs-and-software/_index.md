@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Specs and Software
 uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 ---

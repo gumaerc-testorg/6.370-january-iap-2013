@@ -2,14 +2,22 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types:
+- Lecture Videos
+optional_tab_title: ''
+optional_text: ''
+parent_title: Lecture Videos
+parent_type: CourseSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 1: Introduction to Battlecode'
 uid: bc537e8e-2991-1e25-1fb8-a0da159d58e8
 video_files:
   archive_url: http://www.archive.org/download/MIT6.370IAP13/MIT6_370IAP13_lec1_ipod.mp4
-  video_captions_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-370-the-battlecode-programming-competition-january-iap-2013/a326057959605ce5b8ede13736b96d97_BLExWo9Empk.vtt
+  video_captions_file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/a326057959605ce5b8ede13736b96d97_BLExWo9Empk.vtt
   video_thumbnail_file: https://img.youtube.com/vi/BLExWo9Empk/default.jpg
-  video_transcript_file: https://open-learning-course-data-rc.s3.amazonaws.com/6-370-the-battlecode-programming-competition-january-iap-2013/66f02469840548061251c4f4d2430542_BLExWo9Empk.pdf
+  video_transcript_file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/66f02469840548061251c4f4d2430542_BLExWo9Empk.pdf
 video_metadata:
   youtube_id: BLExWo9Empk
 ---
