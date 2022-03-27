@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Specs and Software
 parent_type: CourseSection
+parent_uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 resourcetype: Other
 title: exampleplayer.zip
 uid: f93127c6-82e2-8c8a-906d-937acc432716

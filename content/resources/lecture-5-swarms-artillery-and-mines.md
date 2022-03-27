@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -15,6 +16,7 @@ related_resources_text: '[Guided Swarm 2 (ZIP)](resources/guidedswarm2) (This ZI
   [Swarm 4 (ZIP)](resources/swarm4) (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Swarms, Artillery, and Mines'
 uid: 325d5c7a-b06d-fb1b-4742-1ff81a8b64e3
 video_files:

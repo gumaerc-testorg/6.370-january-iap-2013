@@ -36,7 +36,7 @@ The following hardware is recommended for best performance:
 Ensure that you are using the correct version of Java. You are using Java 5 if you receive errors such as the following:
 
 ```
-  [javac] class file has wrong version 50.0, should be 49.0
+ [javac] class file has wrong version 50.0, should be 49.0
   [javac] Please remove or make sure it appears in the correct subdirectory of the classpath.
 ```
 

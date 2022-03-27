@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -8,7 +9,7 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: '[Notes from Git and File Sharing Tutorial (TXT)](./resolveuid/8e740ec915cee88db1065665db3da5e1)
+related_resources_text: '[Notes from Git and File Sharing Tutorial (TXT)](resources/gittutorial)
 
 
   [Lecture 4 Robot Player Release (ZIP)](resources/lec4robotplayer) (This ZIP file
@@ -19,6 +20,7 @@ related_resources_text: '[Notes from Git and File Sharing Tutorial (TXT)](./reso
   file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 4: Git Repository'
 uid: a8a845b9-f1ec-1dab-da99-86b285dffaed
 video_files:

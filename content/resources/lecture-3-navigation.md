@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -18,6 +19,7 @@ related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](resources/mi
   contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Navigation'
 uid: be921d89-1754-d6b3-35ea-a339318bb1cf
 video_files:

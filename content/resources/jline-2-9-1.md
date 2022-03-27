@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Battlecode 2013 Software
 parent_type: CourseSection
+parent_uid: 5c284dcb-09b7-b8e2-b704-cf0a29e6f23a
 resourcetype: Other
 title: jline-2.9.1.jar
 uid: 883bf3b8-7adf-861e-e3de-addcd0dabb1e
