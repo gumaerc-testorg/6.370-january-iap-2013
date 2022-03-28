@@ -1,18 +1,18 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 1: Introduction to Battlecode'
 uid: bc537e8e-2991-1e25-1fb8-a0da159d58e8
 video_files:

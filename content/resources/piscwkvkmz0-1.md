@@ -5,6 +5,7 @@ file: /media/courses/6-370-the-battlecode-programming-competition-january-iap-20
 file_type: application/pdf
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Document
 title: 3play pdf file
 uid: 9f184ed8-b81c-f071-7d03-24b6dd5e9a50

@@ -5,6 +5,7 @@ file: /media/courses/6-370-the-battlecode-programming-competition-january-iap-20
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: packageExample.zip
 uid: b5e25f36-c93e-ade3-2a95-8f2da8067b50

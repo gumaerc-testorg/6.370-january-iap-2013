@@ -5,6 +5,7 @@ file: /media/courses/6-370-the-battlecode-programming-competition-january-iap-20
 file_type: application/zip
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: guidedSwarm2.zip
 uid: 56b66a34-048f-ab6c-3a06-a71c7ba1d474

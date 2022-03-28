@@ -1,19 +1,19 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: '[Lecture 2 Robot Player Release (ZIP)](resources/lec2robotplayer)
   (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 2: Writing Your First Player'
 uid: 0f4e9387-ad7a-cbc2-a92e-2769404c151e
 video_files:

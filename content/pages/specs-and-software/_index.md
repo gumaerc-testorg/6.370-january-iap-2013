@@ -2,6 +2,7 @@
 content_type: page
 learning_resource_types: []
 ocw_type: CourseSection
+parent_uid: null
 title: Specs and Software
 uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 ---
@@ -15,7 +16,7 @@ The objective this year is simple. Violently eliminate the opponent's HQ through
 
 Good luck!
 
-From here, you can read the rest of the [Battlecode 2013 Gameplay Specs]({{< baseurl >}}/pages/specs-and-software/battlecode-2013-gameplay-specs) and information on getting started with the [Battlecode 2013 Software]({{< baseurl >}}/pages/specs-and-software/battlecode-2013-software).
+From here, you can read the rest of the {{< resource_link ae7def09-6e67-e243-144a-c62c695bd09f "Battlecode 2013 Gameplay Specs" >}} and information on getting started with the {{< resource_link 5c284dcb-09b7-b8e2-b704-cf0a29e6f23a "Battlecode 2013 Software" >}}.
 
 The example player and documentation specific to IAP 2013 are courtesy of Battlecode 2013 developers (Yanping Chen, Cory Li, Haitao Mao, and Steven Valdez) and are used with permission.
 
@@ -28,6 +29,6 @@ Software Downloads
 
 [All Installer Releases (ZIP - 367.3 MB)](/ans7870/6/6.370/iap13/releases.zip) (This ZIP file contains: 12 .jar files and 1 .java file.)
 
-[Example Player (ZIP)]({{< baseurl >}}/resources/exampleplayer) (This ZIP file contains: 1 .java file.)
+{{< resource_link f93127c6-82e2-8c8a-906d-937acc432716 "Example Player (ZIP)" >}} (This ZIP file contains: 1 .java file.)
 
 [Javadocs](/ans7870/6/6.370/iap13/)

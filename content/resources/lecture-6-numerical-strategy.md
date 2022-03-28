@@ -1,14 +1,15 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: '[Battlecode Simulation v2 (NB)](resources/numericalstrategy_2)
 
 
@@ -18,7 +19,6 @@ related_resources_text: '[Battlecode Simulation v2 (NB)](resources/numericalstra
   [Battlecode Simulation v4 (PDF)](resources/mit6_370iap13_numstrat_4)'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 6: Numerical Strategy'
 uid: 855b68af-1468-b288-d7e6-ef6d56875c7b
 video_files:

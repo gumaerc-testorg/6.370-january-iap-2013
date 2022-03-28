@@ -1,14 +1,15 @@
 ---
 content_type: resource
 description: ''
-end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
+parent_uid: null
 related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](resources/mit6_370iap13_btlecde_dsht)
 
 
@@ -19,7 +20,6 @@ related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](resources/mi
   contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
-start_time: ''
 title: 'Lecture 3: Navigation'
 uid: be921d89-1754-d6b3-35ea-a339318bb1cf
 video_files:

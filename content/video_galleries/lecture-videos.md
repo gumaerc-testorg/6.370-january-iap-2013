@@ -4,6 +4,7 @@ is_media_gallery: true
 learning_resource_types:
 - Lecture Videos
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Videos
 uid: 2b6e95b3-f695-35a9-0008-da93ff6d1668
 videos:

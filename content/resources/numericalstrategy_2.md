@@ -5,6 +5,7 @@ file: /media/courses/6-370-the-battlecode-programming-competition-january-iap-20
 file_type: application/mathematica
 learning_resource_types: []
 ocw_type: OCWFile
+parent_uid: null
 resourcetype: Other
 title: numericalStrategy_2.nb
 uid: fab61eca-3e0e-d046-8f73-56244f24ab3d
