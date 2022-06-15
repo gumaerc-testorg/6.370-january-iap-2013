@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,17 +10,17 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
-related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](resources/mit6_370iap13_btlecde_dsht)
+related_resources_text: '[Max''s Useful Battlecode Datasheet (PDF)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/mit6_370iap13_btlecde_dsht)
 
 
-  [Mapmaker (NB)](resources/mapmaker)
+  [Mapmaker (NB)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/mapmaker)
 
 
-  [Lecture 3 Robot Player Release (ZIP)](resources/lec3robotplayer) (This ZIP file
-  contains: 1 .java file.)'
+  [Lecture 3 Robot Player Release (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/lec3robotplayer)
+  (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 3: Navigation'
 uid: be921d89-1754-d6b3-35ea-a339318bb1cf
 video_files:
@@ -34,3 +35,6 @@ video_metadata:
 **Description:** This lecture demonstrates pathing in a maze, and how to implement pathing in Battlecode. Metrics of success, possible undesireable behavior, bytecode tricks, and indexing are also discussed.
 
 **Instructor:** Maxwell Mann
+
+
+

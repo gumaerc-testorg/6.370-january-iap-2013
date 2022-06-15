@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,11 +10,11 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
-related_resources_text: '[Lecture 2 Robot Player Release (ZIP)](resources/lec2robotplayer)
+related_resources_text: '[Lecture 2 Robot Player Release (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/lec2robotplayer)
   (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 2: Writing Your First Player'
 uid: 0f4e9387-ad7a-cbc2-a92e-2769404c151e
 video_files:
@@ -28,3 +29,6 @@ video_metadata:
 **Description:** This lecture demonstrates how to start moving soldiers, building troops around a rally point, determining possible directions of movement, and finding the closest enemy. Specific methods and attributes are also discussed during the demonstration.
 
 **Instructor:** Maxwell Mann
+
+
+

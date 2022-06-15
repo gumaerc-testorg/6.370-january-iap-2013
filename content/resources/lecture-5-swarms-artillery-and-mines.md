@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
@@ -9,14 +10,15 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-parent_uid: null
-related_resources_text: '[Guided Swarm 2 (ZIP)](resources/guidedswarm2) (This ZIP
-  file contains: 1 .java file.)
+related_resources_text: '[Guided Swarm 2 (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/guidedswarm2)
+  (This ZIP file contains: 1 .java file.)
 
 
-  [Swarm 4 (ZIP)](resources/swarm4) (This ZIP file contains: 1 .java file.)'
+  [Swarm 4 (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/swarm4)
+  (This ZIP file contains: 1 .java file.)'
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Lecture 5: Swarms, Artillery, and Mines'
 uid: 325d5c7a-b06d-fb1b-4742-1ff81a8b64e3
 video_files:
@@ -31,3 +33,6 @@ video_metadata:
 **Description:** This lecture introduces centralized and decentralized control in Battlecode, and demonstrates different ways to implement swarming and laying mines strategically.
 
 **Instructor:** Maxwell Mann
+
+
+
