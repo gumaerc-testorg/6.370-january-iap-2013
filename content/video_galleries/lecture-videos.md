@@ -1,8 +1,15 @@
 ---
 content_type: video_gallery
+description: This section presents videos of optional lectures that introduce how
+  to get started with Battlecode, how to write a bot, and techniques relevant to gameplay.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Lecture Videos
 uid: 2b6e95b3-f695-35a9-0008-da93ff6d1668
+video_metadata:
+  youtube_id: null
 videos:
   content:
   - bc537e8e-2991-1e25-1fb8-a0da159d58e8

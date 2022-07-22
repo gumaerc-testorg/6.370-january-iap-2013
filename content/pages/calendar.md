@@ -1,7 +1,13 @@
 ---
 content_type: page
+description: This section provides the schedule of daily activities and key dates
+  for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 15a91d1a-c942-74ed-0464-0d8b835f1229
+video_metadata:
+  youtube_id: null
 ---
 
 This course is offered during IAP ![](/images/educator/icon-question-iap.png) with typically four weeks of class in January. Students may attend the optional lectures and lab hours, which are offered during the first two weeks. The remaining time is open for teams to develop their players and scrimmage with other teams.

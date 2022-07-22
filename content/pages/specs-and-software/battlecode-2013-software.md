@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This section provides a detailed description of the Battlecode software,
+  the installation process, configuration, and guidelines on getting started.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Specs and Software
+parent_type: CourseSection
 parent_uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 title: Battlecode 2013 Software
 uid: 5c284dcb-09b7-b8e2-b704-cf0a29e6f23a
+video_metadata:
+  youtube_id: null
 ---
 
-« [Return to Specs and Software]({{< baseurl >}}/pages/specs-and-software)
+« {{% resource_link b953ba9d-34cd-a7ba-c5ff-0952e4179b9a "Return to Specs and Software" %}}
 
 Instruction and information are provided on the following: [Overview](#overview), [System Requirements](#system-requirements), [Installation](#installation), [Running Matches](#running-matches), [Debugging your Player](#debugging-your-player), [Uploading your Player](#uploading-your-player), [Advanced Configuration](#advanced-configuration), [Appendix: Configuration Properties and Command-line Arguments](#appendix), [Scala](#scala)
 
@@ -348,7 +355,7 @@ Find unit by ID
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-<
+\<
 {{< tdclose >}}
 {{< tdopen >}}
 Pause
@@ -379,6 +386,6 @@ Quit
 {{< anchor "scala" >}}{{< /anchor >}}Scala
 ------------------------------------------
 
-Most contestants choose to write their players in Java, but we also support Scala (or a mix of Java and Scala). If you want to use Scala, you should download the [Scala compiler (JAR - 10.8MB)](/ans7870/6/6.370/iap13/scala-compiler-2.9.1.jar), [Scala library (JAR - 8.4MB)](/ans7870/6/6.370/iap13/scala-library-2.9.1.jar), and [jline (JAR)]({{< baseurl >}}/resources/jline-2-9-1), and place them in your `lib` directory. You can also download a simple [example player (SCALA)]({{< baseurl >}}/resources/robotplayer) written in Scala.
+Most contestants choose to write their players in Java, but we also support Scala (or a mix of Java and Scala). If you want to use Scala, you should download the [Scala compiler (JAR - 10.8MB)](/ans7870/6/6.370/iap13/scala-compiler-2.9.1.jar), [Scala library (JAR - 8.4MB)](/ans7870/6/6.370/iap13/scala-library-2.9.1.jar), and {{% resource_link 883bf3b8-7adf-861e-e3de-addcd0dabb1e "jline (JAR)" %}}, and place them in your `lib` directory. You can also download a simple {{% resource_link 1116c4ea-d4e9-1191-965f-f489ee13f411 "example player (SCALA)" %}} written in Scala.
 
-« [Return to Specs and Software]({{< baseurl >}}/pages/specs-and-software)
+« {{% resource_link b953ba9d-34cd-a7ba-c5ff-0952e4179b9a "Return to Specs and Software" %}}

@@ -1,12 +1,19 @@
 ---
 content_type: page
+description: This page includes a detailed description of the gameplay specifications
+  for the Battlecode 2013 competition.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Specs and Software
+parent_type: CourseSection
 parent_uid: b953ba9d-34cd-a7ba-c5ff-0952e4179b9a
 title: Battlecode 2013 Gameplay Specs
 uid: ae7def09-6e67-e243-144a-c62c695bd09f
+video_metadata:
+  youtube_id: null
 ---
 
-« [Return to Specs and Software]({{< baseurl >}}/pages/specs-and-software)
+« {{% resource_link b953ba9d-34cd-a7ba-c5ff-0952e4179b9a "Return to Specs and Software" %}}
 
 Below are the full gameplay specs for the 2013 competition. You can also download a copy of the [Gameplay Specs](./resolveuid/8118226e0c04cdd25997656a67094cb4).
 
@@ -504,4 +511,4 @@ Despite our best efforts, there may be bugs or exploits that allow players to op
 
 Energon intake is not for everyone. Please consult a physician before use. 6.370 Battlecode Corporation is not responsible in the event of injury due to energon use. Energon's side-effects include loss of limb, death, unbearable pain, tendencies to procrastinate and an unnatural senseless rage. Handle with care. Energon consumption has not been approved by any health agency and you USE IT AT YOUR OWN RISK. For this reason, please be careful when scrimmaging. Energon is the same thing as health.
 
-« [Return to Specs and Software]({{< baseurl >}}/pages/specs-and-software)
+« {{% resource_link b953ba9d-34cd-a7ba-c5ff-0952e4179b9a "Return to Specs and Software" %}}

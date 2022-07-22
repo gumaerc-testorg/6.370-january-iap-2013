@@ -1,7 +1,14 @@
 ---
 content_type: page
+description: This syllabus section provides an overview of the Battlecode Programming
+  Competition and information on course meeting times, requirements, grading, scrimmages,
+  and tournaments.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ef70d0e2-f93b-69e0-6a08-03076cbe1538
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times
