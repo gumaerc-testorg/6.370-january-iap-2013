@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -29,6 +30,4 @@ video_metadata:
 **Description:** This lecture demonstrates how to start moving soldiers, building troops around a rally point, determining possible directions of movement, and finding the closest enemy. Specific methods and attributes are also discussed during the demonstration.
 
 **Instructor:** Maxwell Mann
-
-
 

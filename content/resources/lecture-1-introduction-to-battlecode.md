@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** This lecture introduces Battlecode, course and competition logistics, the changes to gameplay since the previous year, and a brief overview of the centralized information provided to players.
 
 **Instructor:** Maxwell Mann
-
-
 
