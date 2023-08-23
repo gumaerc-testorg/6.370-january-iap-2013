@@ -11,7 +11,8 @@ optional_tab_title: ''
 optional_text: ''
 parent_title: Lecture Videos
 parent_type: CourseSection
-related_resources_text: '[Notes from Git and File Sharing Tutorial (TXT)](./resolveuid/8e740ec915cee88db1065665db3da5e1)
+related_resources_text: '{{% resource_link "8e740ec9-15ce-e88d-b106-5665db3da5e1"
+  "Notes from Git and File Sharing Tutorial (TXT)" %}}
 
 
   [Lecture 4 Robot Player Release (ZIP)](/courses/6-370-the-battlecode-programming-competition-january-iap-2013/resources/lec4robotplayer)
@@ -33,8 +34,6 @@ video_files:
 video_metadata:
   youtube_id: g2NoQCEgsCM
 ---
-
 **Description:** This lecture covers the importance of maintaining organized code and includes a walk-through of how to share and manage files using a Git repository.
 
 **Instructor:** Maxwell Mann and Aaron Epstein
-
