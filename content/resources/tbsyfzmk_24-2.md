@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/40aae211fa1e548883ab7d795807992c_tbsYFzmk_24.vtt
+file_size: 72769
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
