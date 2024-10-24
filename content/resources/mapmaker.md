@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/2f7809b0c8ad59122e792da1f05c8ab0_mapmaker.nb
+file: /ol-ocw-studio-app/courses/6-370-the-battlecode-programming-competition-january-iap-2013/2f7809b0c8ad59122e792da1f05c8ab0_mapmaker.nb
 file_size: 20493
 file_type: application/mathematica
 learning_resource_types: []
