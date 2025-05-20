@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-370-the-battlecode-programming-competition-january-iap-2013/1e643a306fe352c49d3080f4e7660a74_dEXo0QyA-Rs.vtt
+file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/1e643a306fe352c49d3080f4e7660a74_dEXo0QyA-Rs.vtt
 file_size: 84214
 file_type: application/x-subrip
 learning_resource_types: []
