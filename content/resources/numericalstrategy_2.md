@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/6-370-the-battlecode-programming-competition-january-iap-2013/fab61eca3e0ed0468f7356244f24ab3d_numericalStrategy_2.nb
+file: /courses/6-370-the-battlecode-programming-competition-january-iap-2013/fab61eca3e0ed0468f7356244f24ab3d_numericalStrategy_2.nb
 file_size: 197253
 file_type: application/mathematica
 learning_resource_types: []
