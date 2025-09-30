@@ -32,11 +32,11 @@ This course is a great opportunity to learn to program or hone your skills furth
 Course Requirements
 -------------------
 
-To compete, individuals must sign up through the [Battlecode website](https://www.battlecode.org/), be on a team (even if it consists of only one person), and upload his/her resume. Non-MIT students are welcome to participate, but you must be a current MIT student to be eligible for prizes and competing in the final tournament.
+To compete, individuals must sign up through the {{% resource_link "b72ceea6-a5d4-4388-859f-51fb9c3516d8" "Battlecode website" %}}, be on a team (even if it consists of only one person), and upload his/her resume. Non-MIT students are welcome to participate, but you must be a current MIT student to be eligible for prizes and competing in the final tournament.
 
 Teams must have one to four people, but can be a mix of MIT and non-MIT students.
 
-Experience in programming definitely helps in the competition, but everyone has to start somewhere. The supported programming languages are [Java](http://www.oracle.com/technetwork/java/index.html) and [Scala](http://www.scala-lang.org/).
+Experience in programming definitely helps in the competition, but everyone has to start somewhere. The supported programming languages are {{% resource_link "8458e5d0-fbfa-4c74-be42-a26044e58326" "Java" %}} and {{% resource_link "63ab53f8-b90d-4baf-ab5b-bd233faa375b" "Scala" %}}.
 
 Grading
 -------
@@ -65,7 +65,7 @@ The sprint tournament is a single-elimination tournament. One week after spec re
 The seeding tournament is a double-elimination tournament that takes place one week after the sprint tournament. Contestants are seeded based on scrimmage ranking, and play continues until there is only one undefeated team. The results of this tournament are used to determine seeds for the qualifying and newbie tournaments. Teams are ranked by the following criteria, in order:
 
 *   Furthest round achieved.
-*   [Bayesian Elo rating](http://remi.coulom.free.fr/Bayesian-Elo/#theory) for the tournament (computed on a per-game basis, not a per-match basis).
+*   {{% resource_link "0e1bc5ca-0a77-4b52-8b53-dce7c7b81c12" "Bayesian Elo rating" %}} for the tournament (computed on a per-game basis, not a per-match basis).
 
 ### Qualifying Tournament
 
