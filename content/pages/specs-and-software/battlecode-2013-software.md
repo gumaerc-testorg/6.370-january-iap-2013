@@ -29,7 +29,7 @@ The Battlecode software consists of three major components:
 
 The Battlecode software requires:
 
-- [JDK 6.0](https://www.oracle.com/java/technologies/javase-java-archive-javase6-downloads.html) or higher
+- {{% resource_link "e9e8d15b-55a8-4b9a-9c4e-f852a251a31d" "JDK 6.0" %}} or higher
 
 The following hardware is recommended for best performance:
 
@@ -42,7 +42,7 @@ Ensure that you are using the correct version of Java. You are using Java 5 if y
   [javac] Please remove or make sure it appears in the correct subdirectory of the classpath.
 ```
 
-We recommend that you install either [Apache Ant](http://ant.apache.org/), [Eclipse](https://www.eclipse.org/), or [Netbeans](https://netbeans.org).
+We recommend that you install either {{% resource_link "eff19002-9141-4f9d-8a9c-59c6dc92c35f" "Apache Ant" %}}, {{% resource_link "63e05579-41e9-488c-b9f4-c31795fada69" "Eclipse" %}}, or {{% resource_link "113c4d5d-46f0-4888-9285-0e5d35d776bc" "Netbeans" %}}.
 
 Battlecode will run on Java 7. Please be aware, however, that the scrimmage server runs Java 6, and it will not be able to compile your code if you use Java 7 specific language features.
 
